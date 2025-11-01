@@ -55,9 +55,9 @@
 
 <p align="center">
   <!-- 👉 Replace "username" in all URLs below with your GitHub username -->
-  <img src="https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=donut-vertical&theme=radical&langs_count=10&hide_border=true" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=username&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=udita06&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udita06&layout=donut-vertical&theme=radical&langs_count=10&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=udita06&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
