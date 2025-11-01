@@ -7,7 +7,7 @@
 
 <p align="left"> 
   <!-- 👉 Replace "username" below with your GitHub username -->
-  <img src="https://komarev.com/ghpvc/?username=username&label=Profile%20views&color=green&style=flat" alt="udita06" />
+  <img src="https://komarev.com/ghpvc/?username=udita06&label=Profile%20views&color=green&style=flat" alt="udita06" />
 </p>
 
 ---
